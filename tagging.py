@@ -1,4 +1,4 @@
-import nltk
+import nltk_vishal
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
 
